@@ -8,3 +8,7 @@
 body{
   background-color: rgb(8, 2, 29);
 }
+
+#tasklist::-webkit-scrollbar{
+  display: none;
+}
